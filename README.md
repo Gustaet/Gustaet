@@ -18,6 +18,15 @@
 - 💬 Ask me about Python, C++, or anything tech-related  
 ---
 
+### 🌐 Exploring The Land of The Rising Sun: Japan
+
+A WordPress travel blog I built and designed to showcase Japanese culture, travel tips, and major destinations.
+
+🔗 [Visit Website](https://ioeodj.wordpress.com/)
+
+**Tech used:** WordPress, HTML/CSS, basic JavaScript, SEO optimization  
+**Highlights:** Mobile-friendly design, intuitive UX, organized content, and custom visuals.
+
 ## 🛠️ Tech Stack
 
 <p align="center">
